@@ -72,7 +72,7 @@ h1, h2, h3, h4 {
 /* Componentes */
 .banner {
   padding: 100px;
-  --background-color: 
+  --background-color:
 }
 /* Utilidades */
 .flex {
@@ -84,4 +84,8 @@ h1, h2, h3, h4 {
 .contenedor {
   width: 90vw;
   margin-inline: auto;
+  background-image: url("https://i.pinimg.com/564x/53/90/7c/53907c92c885ce7409889d563c5cae5d.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 }
